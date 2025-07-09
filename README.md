@@ -1,5 +1,7 @@
+- More info: Samlazrak.com
 - 🔭 I’m currently working on learning AI in Medicine, Rust, Systems programming.
 - 🌱 I’m currently learning Rust and more Machine learning in Python.
 - 👯 I’m looking to collaborate on rust projects and things involving Birmingham, AL or AI in Medicine.
 - 💬 Ask me about the Build Birmingham initiative.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samlazrak/)
+- Interested in Personal Knowledge bases & how I am gathering intersting insight using AI/ML from my knowledge graph? Checkout : https://garden.samlazrak.com/
