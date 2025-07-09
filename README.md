@@ -1,4 +1,4 @@
-- More info: Samlazrak.com
+- More info: https://www.Samlazrak.com
 - 🔭 I’m currently working on learning AI in Medicine, Rust, Systems programming.
 - 🌱 I’m currently learning Rust and more Machine learning in Python.
 - 👯 I’m looking to collaborate on rust projects and things involving Birmingham, AL or AI in Medicine.
